@@ -9,3 +9,7 @@ const multiply = (a, b) => {
 };
 
 console.log(multiply(2, 3));
+// This is a multiplication function
+// End of the code
+// --- IGNORE ---
+// This comment is to be ignored
